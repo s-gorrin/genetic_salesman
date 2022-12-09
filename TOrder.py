@@ -1,8 +1,8 @@
 """
 TERMS:
 route:  a relative route where each step is the nth-nearest city from the current
-path:   a list of cities, by letter, which can be generated from a route
-        each path starts and ends with the first city in the list
+path:   a list of cities, by name, which can be generated from a route, wherein
+                each path starts and ends with the first city in the list
 """
 
 import random
